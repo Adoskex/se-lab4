@@ -1,0 +1,5 @@
+# Ha egy hibás lövés történik az egyik torpedótárból,
+# akkor nem próbál kilőni torpedót a másik tárból
+GT4500,1,1,1,0
+TORPEDO,SINGLE  # elsődleges, de nem tudja kilőni, pedig van benne lőszer
+
