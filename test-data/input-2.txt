@@ -1,0 +1,4 @@
+# Felváltva lő a tárakból, egymás utáni SINGLE parancsok kiadásával
+GT4500,1,0,1,0
+TORPEDO,SINGLE  # elsődleges
+TORPEDO,SINGLE  # másodlagos

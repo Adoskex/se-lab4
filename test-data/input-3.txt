@@ -1,0 +1,7 @@
+# Felváltva lő addig, amíg az egyik tárból ki nem fogy, ekkor vált arra a tárra,
+# amelyikben még van lövedék, és utána ezt használja csak
+GT4500,3,0,1,0
+TORPEDO,SINGLE  # elsődleges 2
+TORPEDO,SINGLE  # másodlagos 0
+TORPEDO,SINGLE  # elsődleges 1
+TORPEDO,SINGLE  # elsődleges 0

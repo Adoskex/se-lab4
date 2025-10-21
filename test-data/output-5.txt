@@ -1,0 +1,6 @@
+SUCCESS #GT4500
+SUCCESS #másodlagos tár
+SUCCESS #elsődleges tár
+SUCCESS #másodlagos tár
+SUCCESS #másodlagos tár
+FAIL #kifogyott

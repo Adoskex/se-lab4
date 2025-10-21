@@ -1,0 +1,5 @@
+SUCCESS #GT4500
+SUCCESS #elsődleges tár
+SUCCESS #másodlagos tár
+SUCCESS #elsődleges tár
+SUCCESS #elsődleges tár
